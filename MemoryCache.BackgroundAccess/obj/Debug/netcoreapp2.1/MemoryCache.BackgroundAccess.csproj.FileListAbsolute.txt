@@ -1,0 +1,14 @@
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/bin/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.deps.json
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/bin/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.runtimeconfig.json
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/bin/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.runtimeconfig.dev.json
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/bin/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.dll
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/bin/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.pdb
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/obj/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.csprojAssemblyReference.cache
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/obj/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.csproj.CoreCompileInputs.cache
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/obj/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.RazorAssemblyInfo.cache
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/obj/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.RazorAssemblyInfo.cs
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/obj/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.AssemblyInfoInputs.cache
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/obj/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.AssemblyInfo.cs
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/obj/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.RazorTargetAssemblyInfo.cache
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/obj/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.dll
+/home/firebirdy/Dev/memorycache-backroundaccess/MemoryCache.BackgroundAccess/obj/Debug/netcoreapp2.1/MemoryCache.BackgroundAccess.pdb
